@@ -1,0 +1,66 @@
+Dashboard Pages
+---------------
+
+(1) Home Page
+-------------
+-> This is an introductory page with a large Zomato logo and the word "Dashboard." It features a dynamic, illustrated background of various food items like noodles, shrimp, and vegetables, all set against a red backdrop.
+
+
+(2) Overview Page
+-----------------
+-> This is the main analytics page, which provides a high-level summary of the business.
+
+-> Key Metrics (KPIs): Four prominent cards display key figures:
+
+* Amount: The total sales value (e.g., "414M," "987M").
+* Quantity: The total number of items sold (e.g., "1M," "2M").
+* Ratings: The total number of ratings given by users (e.g., "61K," "148K").
+* Orders: The total number of orders placed (e.g., "62K," "150K").
+
+-> There are also "Amount" and "Quantity" buttons, which likely toggle between these two views for the underlying data.
+
+-> Category Performance: Three cards show the performance of different food categories:
+
+-> Non-Veg: Displays total sales amount and ratings for non-vegetarian food.
+
+-> Veg: Displays total sales amount and ratings for vegetarian food.
+
+-> Others: Displays sales amount and ratings for other food types.
+
+-> Geographic Data: A bar chart titled "All City Amount" shows a ranking of top cities by total sales amount.
+
+-> Yearly Trends: A line chart shows the "Yearly Trends" of "Sale Value" from 2017 to 2020. The values are plotted, and in the screenshots, the data for 2018 is highlighted.
+
+
+(3) User Performance Page
+-------------------------
+-> This page focuses on user-related metrics.
+
+-> Key Metrics (KPIs): The four main KPI cards are present again, with "Active Users" and "Total Users" replacing "Amount" and "Quantity." The numbers for ratings and orders remain consistent.
+
+-> Customer Gains & Losses: Two horizontal bar charts show "Gained Customers" and "Lost Customers," broken down by gender (Male and Female).
+
+-> Users by Age: A histogram-like bar chart displays the distribution of users by age, from the teens to people in their 30s and beyond.
+
+
+(4) City Performance Page 
+-------------------------
+-> This page provides a more detailed geographical breakdown of performance.
+
+-> Key Metrics (KPIs): The main KPI cards are again present, showing "Amount," "Quantity," "Ratings," and "Orders."
+
+-> Geographic Visualization: A world map is present in the background, though it is a static image.
+
+-> City-Specific Data: A table lists cities and their corresponding "Sales" and "Orders" figures.
+
+-> Rankings by City: Three horizontal bar charts rank cities based on different metrics:
+
+* "Sales by City"
+* "Ratings by City"
+* "Active Users by City"
+
+-> The rankings in all three charts appear to be different, highlighting different strengths in various cities.
+
+
+-> Overall, the dashboard is well-structured and provides a comprehensive view of Zomato's business performance across different dimensions: sales, orders, user behavior, and geographic performance. 
+-> The navigation sidebar on the left with icons for home, money, charts, and settings suggests a clear and user-friendly structure.
